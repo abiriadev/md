@@ -1,6 +1,6 @@
 # Minimal Regular Expression Parser
 
-> [!WARN]  
+> [!WARNING]
 > It does NOT support most of PCRE features like capturing,
 > negative/positive lookahead/lookbehind, character classes,
 > exclusion, any character, unicode escaping, start and end
